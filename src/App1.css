@@ -1,0 +1,18 @@
+.AddEmployee,.AddMgt,.UpdateMgt{
+    background-image: url("https://wallpapercave.com/wp/wp7728108.jpg ")!important;
+    background-size: contain !important;
+    background-position: 100%;
+    height: 100vh;
+
+}
+
+#EmpList{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    background-color:teal;
+}
+#SearchCard{
+    height: 375px;
+	width: 500px;
+}
